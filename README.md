@@ -1,2 +1,2 @@
-# Repositorio sobre o Desafio de Git/Github Dio_Everis
-Desafio de projeto sobre Git/Github
+# Desafio de Git/Github Dio_Everis
+Repositorio criado para o Desafio de projeto sobre Git/Github
